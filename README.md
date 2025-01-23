@@ -1,14 +1,15 @@
 # 🌟 Mymo Care App
 
 ## 📖 소개
-**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단과 제품을 추천해주는 모바일 애플리케이션입니다.  
+**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단과 제품을 추천해주는 스마트 모바일 애플리케이션입니다.  
 이 프로젝트는 **2025 CES**에서 공개되어 많은 관심과 긍정적인 피드백을 받았습니다.
 
 ---
 
 ## 🎯 주요 기능
 ### 🔬 두피 상태 분석
-- 이미지 분석 기술을 활용해 비듬, 탈모, 피지 과다 등 다양한 두피 상태를 진단합니다.
+- **YOLO 기반 객체 탐지 모델**을 활용해 두피 상태를 정확히 분석합니다.
+- 이미지 분석을 통해 비듬, 탈모, 피지 과다 등 다양한 두피 문제를 진단합니다.
 
 ### 🍴 맞춤형 추천
 - **식단 추천**: 두피 상태에 적합한 영양소 기반 식단을 제공합니다.
@@ -20,24 +21,36 @@
 ---
 
 ## 🚀 프로젝트의 차별점
-- **사용자 맞춤형 추천**: 분석 결과와 사용자 입력 데이터를 결합한 고도화된 추천 알고리즘.
+- **YOLO 모델 사용**: 빠르고 정확한 두피 상태 분석을 통해 사용자 맞춤형 솔루션을 제공합니다.
 - **사용자 경험 중심 설계**: 간단한 인터페이스와 직관적인 UX 제공.
 - **CES 2025 소개**: 글로벌 기술 행사에서 인정받은 혁신적 프로젝트.
 
 ---
 
 ## 📦 기술 스택
+- **YOLOv5**: 두피 상태 객체 탐지 및 분석.
 - **Flutter**: 크로스 플랫폼 모바일 앱 개발.
 - **Dart**: 애플리케이션 로직 및 UI 구현.
 - **SharedPreferences**: 사용자 데이터 관리.
 - **FL Chart**: 데이터 시각화.
 
 ---
+## 📱 앱 화면 미리보기
+
+| 메인 화면 | 분석 화면 | 추천 화면 |
+| --- | --- | --- |
+| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진1.jpg" alt="메인 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진2.jpg" alt="분석 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진3.jpg" alt="추천 화면" width="200" height="400"> |
+
+| 결과 화면 | 기록 화면 | 설정 화면 | |
+| --- | --- | --- | --- |
+| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진4.jpg" alt="결과 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진5.jpg" alt="기록 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진6.jpg" alt="설정 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진7.jpg" alt="기타 화면" width="200" height="400"> |
+
+---
 
 ## 📌 앞으로의 계획
+- YOLO 모델의 고도화 및 분석 정확도 향상.
 - 글로벌 사용자 기반 확대.
-- 더 정교한 두피 분석 및 추천 알고리즘 개발.
-- 두피 관리 관련 커뮤니티 및 정보 공유 플랫폼 구축.
+- 더 정교한 추천 알고리즘 개발 및 커뮤니티 플랫폼 구축.
 
 ---
 
