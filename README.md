@@ -1,16 +1,52 @@
-# zz
+# 🌟 Mymo Care App
 
-A new Flutter project.
+## 📖 소개
+**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단과 제품을 추천해주는 모바일 애플리케이션입니다.  
+이 프로젝트는 **2025 CES**에서 공개되어 많은 관심과 긍정적인 피드백을 받았습니다.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 주요 기능
+### 🔬 두피 상태 분석
+- 이미지 분석 기술을 활용해 비듬, 탈모, 피지 과다 등 다양한 두피 상태를 진단합니다.
 
-A few resources to get you started if this is your first Flutter project:
+### 🍴 맞춤형 추천
+- **식단 추천**: 두피 상태에 적합한 영양소 기반 식단을 제공합니다.
+- **제품 추천**: 건강한 두피 관리를 위한 맞춤형 제품을 추천합니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📊 결과 기록 및 관리
+- 이전 분석 결과를 저장하고 확인할 수 있어 두피 상태 변화를 추적할 수 있습니다.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 프로젝트의 차별점
+- **사용자 맞춤형 추천**: 분석 결과와 사용자 입력 데이터를 결합한 고도화된 추천 알고리즘.
+- **사용자 경험 중심 설계**: 간단한 인터페이스와 직관적인 UX 제공.
+- **CES 2025 소개**: 글로벌 기술 행사에서 인정받은 혁신적 프로젝트.
+
+---
+
+## 📦 기술 스택
+- **Flutter**: 크로스 플랫폼 모바일 앱 개발.
+- **Dart**: 애플리케이션 로직 및 UI 구현.
+- **SharedPreferences**: 사용자 데이터 관리.
+- **FL Chart**: 데이터 시각화.
+
+---
+
+## 📌 앞으로의 계획
+- 글로벌 사용자 기반 확대.
+- 더 정교한 두피 분석 및 추천 알고리즘 개발.
+- 두피 관리 관련 커뮤니티 및 정보 공유 플랫폼 구축.
+
+---
+
+## 🔒 특허 및 지적재산권
+현재 **특허 출원 중**으로, 상세한 모델 및 전처리 코드 등은 공개하지 않았습니다.
+
+---
+
+## 🤝 문의
+프로젝트에 대한 문의는 아래를 통해 연락 바랍니다.  
+📧 **hongjo1541@gmail.com**
+
