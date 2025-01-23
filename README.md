@@ -39,11 +39,11 @@
 
 | 메인 화면 | 분석 화면 | 추천 화면 |
 | --- | --- | --- |
-| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진1.jpg" alt="메인 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진2.jpg" alt="분석 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진3.jpg" alt="추천 화면" width="200" height="400"> |
+| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진1.jpg" alt="첫 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진2.jpg" alt="설문 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진3.jpg" alt="결과 화면" width="200" height="400"> |
 
 | 결과 화면 | 기록 화면 | 설정 화면 | |
 | --- | --- | --- | --- |
-| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진4.jpg" alt="결과 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진5.jpg" alt="기록 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진6.jpg" alt="설정 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진7.jpg" alt="기타 화면" width="200" height="400"> |
+| <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진4.jpg" alt="결과 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진5.jpg" alt="식단 추천 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진6.jpg" alt="식단 상세 화면" width="200" height="400"> | <img src="https://github.com/hongjo-dev/scalp-analysis/blob/main/image/앱사진7.jpg" alt="제품 추천 화면" width="200" height="400"> |
 
 ---
 
